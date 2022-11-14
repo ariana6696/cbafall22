@@ -91,6 +91,6 @@ b8 <- recycling_b8 - landfill_c8 - collection_c8 - separation_cost
 PVNB <- b1 /(1+d) + b2/(1+d)^2 + b3/(1+d)^3 + b4/(1+d)^4 + b5/(1+d)^5 + b6/(1+d)^6 + b7/(1+d)^7 + b8/(1+d)^8 - pv_capital_scrap 
 
 
-
+#this is bailie typing
 
 
