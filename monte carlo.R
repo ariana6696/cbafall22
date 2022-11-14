@@ -93,4 +93,4 @@ PVNB <- b1 /(1+d) + b2/(1+d)^2 + b3/(1+d)^3 + b4/(1+d)^4 + b5/(1+d)^5 + b6/(1+d)
 
 #this is bailie typing
 
-
+madeupvar <- 0
